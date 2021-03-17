@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "objects",
+    "parser",
+    "emitter",
+    "interpreter",
+    "calculator"
+]
